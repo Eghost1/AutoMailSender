@@ -1,0 +1,33 @@
+# Entorno virtual
+.venv/
+env/
+venv/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Archivos de distribución
+dist/
+build/
+*.egg-info/
+
+# Archivos de IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Archivos de configuración y credenciales
+.env
+
+# Archivos de registro y datos
+*.log
+sent_emails.txt
+
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db

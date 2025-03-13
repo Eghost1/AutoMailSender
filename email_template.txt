@@ -1,0 +1,7 @@
+Estimado/a [NOMBRE],
+
+Este es un mensaje de ejemplo. 
+Modifica esta plantilla con tu contenido.
+
+Saludos cordiales,
+Tu Nombre
